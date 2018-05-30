@@ -14,7 +14,7 @@ This project was about how to create a physical and digital game to help educate
 
 ![blogs](https://github.com/CallumLovekin28/Interactive-Narratives/blob/master/Images/Blogs.png)
 
-Week 1 : [What is your favourite board game and why?] (https://medium.com/@c.lovekin/what-is-your-favourite-board-game-and-why-aa58ee240772) 
+Week 1 : [What is your favourite board game and why?](https://medium.com/@c.lovekin/what-is-your-favourite-board-game-and-why-aa58ee240772) 
 
 Week 2: [When creating online content for children, what are some of the ethical considerations you need to take?
 ](https://medium.com/@c.lovekin/when-creating-online-content-for-children-what-are-some-of-the-ethical-considerations-you-need-to-f86f14e7dc7b) 
