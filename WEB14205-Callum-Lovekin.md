@@ -32,9 +32,9 @@ Week 7: [500 Word Reflective Report](https://medium.com/@c.lovekin/reflective-fe
 
 ![Idea](https://github.com/CallumLovekin28/Interactive-Narratives/blob/master/Images/Concept.png)
 
-The board game we decided to make was called Adverdice. It was a play on words using the medium in the game (Dice) and what the game is about (Advertising) The game has 4 dice, whiteboard and a set of instructions to get you started. 
+The board game we decided to make was called Adverdice. It was a play on words using the medium in the game (Dice) and what the game is about (Advertising) The game orginally had 4 dice, whiteboard and a set of instructions to get you started. After a series of user testing and play tests we ended up only havin 2 dice and a set of templates for the whiteboards. We found out that people where getting confused and so they needed something that helped make it a bit clearer.
 
-The game requires you to roll the dice and come up with an advertising campaign using the icons that you have been given, you then draw on the white board and present to the rest of the play group once everyone is done. The game is for anyone really, it can be used in a design agency to spark idea generation or it oculd be played by a bunch of friends on a friday night with a couple drinks.
+The game requires you to create advertising campaign with templates and dice , you then draw on the white board and present to the rest of the play group once everyone is done. The game is for anyone really, it can be used in a design agency to spark idea generation or it oculd be played by a bunch of friends on a friday night with a couple drinks.
 
 
 ![Hand In](https://github.com/CallumLovekin28/Interactive-Narratives/blob/master/Images/ProjectMAterial.png)
