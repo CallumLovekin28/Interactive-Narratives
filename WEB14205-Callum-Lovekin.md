@@ -43,7 +43,7 @@ The game requires you to create advertising campaign with templates and dice , y
 
 - [Media Assets](https://drive.google.com/drive/folders/1APHxJOhLJAGzDevb6lJB6uWslT6snyj5?usp=sharing)
 
-- [Board Game Production]()
+- [Board Game Production](https://drive.google.com/open?id=1uguvQgUp174xod0UFSq02qg2Zh_-GV6y)
 
 - [Digital Game Production](https://dombishop.github.io/I-N-Game/)
 
@@ -53,4 +53,4 @@ The game requires you to create advertising campaign with templates and dice , y
 
 - [Formative Presentation](https://docs.google.com/presentation/d/19IfPvb-LPOdwrjAaCOnlHkbHE7v8pZ5FZW3ZMMakXxw/edit?usp=sharing)
 
-- [Summative presentation]()
+- [Summative presentation](https://docs.google.com/presentation/d/1fWIoRk3HG-4Df92BLTQKdy1PPOKL2YEXJVpg--n79WU/edit?usp=sharing)
