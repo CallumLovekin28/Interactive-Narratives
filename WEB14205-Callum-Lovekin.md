@@ -55,7 +55,7 @@ The game requires you to create advertising campaign with templates and dice , y
 
 - [Summative presentation](https://docs.google.com/presentation/d/1fWIoRk3HG-4Df92BLTQKdy1PPOKL2YEXJVpg--n79WU/edit?usp=sharing)
 
-![Phaser](https://github.com/CallumLovekin28/Interactive-Narratives/blob/master/Images/Concept.png)
+![Phaser](https://github.com/CallumLovekin28/Interactive-Narratives/blob/master/Images/Phaser.png)
 
 The game idea we had for Phaser is a game where a boss chases his creative employe (hipster) when it's past a deadline. The player needs to control the creative and collect lightbulbs which represent creative ideas and build up as big a score as he can. When the player is caught by the boss it's game over, when that happens, hit command+R to restart the game.
 
