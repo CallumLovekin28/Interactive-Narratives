@@ -45,6 +45,8 @@ The game requires you to create advertising campaign with templates and dice , y
 
 - [Board Game Production]()
 
+- [Digital Game Production](https://dombishop.github.io/I-N-Game/)
+
 - [500 word reflective report](https://medium.com/@c.lovekin/reflective-feedback-2d6204a6c5a1)
 
 - [Formative Presentation](https://docs.google.com/presentation/d/19IfPvb-LPOdwrjAaCOnlHkbHE7v8pZ5FZW3ZMMakXxw/edit?usp=sharing)
